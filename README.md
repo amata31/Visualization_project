@@ -18,4 +18,4 @@ This project is part of the IBM *Data Visualization with Python* course. It focu
 - Interactive maps
 
 ## Credential
-[**Add Credential / Certificate Link Here**]
+[**Certificate Link: https://www.credly.com/badges/055c447b-fa34-42f3-8584-f5dc5eaf5884/public_url**]
